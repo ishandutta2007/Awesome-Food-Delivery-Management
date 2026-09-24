@@ -58,9 +58,9 @@ Below is a detailed comparison of top commercial Food Delivery & POS Integration
 
 ## 💻 Open-Source GitHub Projects
 
-Self-hosted, commission-free alternatives for restaurant operators and software engineers. Below are top open-source projects ranked by **GitHub Star Count (Descending)**.
+Self-hosted, commission-free alternatives for restaurant operators and software engineers. Below are top open-source projects ranked by **GitHub Stars_Count (Descending)**.
 
-| 🛠️ Project | ⭐ Star Count | 📜 License | 🧰 Tech Stack | 📝 Description & Features |
+| 🛠️ Project | ⭐ Stars_Count | 📜 License | 🧰 Tech Stack | 📝 Description & Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** 💜 | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JS, PostgreSQL | Comprehensive open-source ERP featuring full-featured Restaurant POS, table management, online ordering, and delivery modules. |
 | **[ERPNext](https://github.com/frappe/erpnext)** 💚 | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python, Frappe Framework, JS | Enterprise open-source ERP with specialized Restaurant & Hospitality management, inventory, POS, and delivery dispatch integration. |
